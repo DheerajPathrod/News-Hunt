@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+body{
+  background-color: #38393c;
+  color: white;
+}
+
+.card{
+  background-color: #38393c;
+  color: white;
+  border-color: rgb(137, 134, 134);
+}
+
+/* .spin{
+  border-radius: 10px;
+} */
+
+/* .navbar{
+  background-color: grey;
+} */
+
+/* .btn{
+  background-color: rgb(180, 194, 206);
+} */
+
+
